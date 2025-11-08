@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-groq
+langgraph
+python-dotenv
+pandas
+pandasql
+typing-extensions
+pyyaml
